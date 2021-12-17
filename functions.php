@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Theme setup.
+ * WP Santri Theme setup.
  */
 function wp_santri_setup() {
 	add_theme_support( 'title-tag' );
